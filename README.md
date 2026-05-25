@@ -1,4 +1,3 @@
-```markdown
 # HODGEMIRROR
 
 **The Hodge Mirror: Mixed Hodge Structures as the Refined col(F)/ker(F) Partition of Persistent Sheaves, Variation of Hodge Structure as the Unifying Temporal Clock Synchronizing Kronecker Arithmetic Time and Wasserstein Gradient Flows, and Mirror Symmetry as the Dual Symplectic-Complex Architecture in TH(a,d)**
@@ -184,4 +183,3 @@ The Hodge Mirror: Mixed Hodge Structures as the Refined col(F)/ker(F) Partition 
 Readme · Activity · Stars 0 · Watchers 0 · Forks 0
 
 *© 2026 GitHub, Inc.*
-```
